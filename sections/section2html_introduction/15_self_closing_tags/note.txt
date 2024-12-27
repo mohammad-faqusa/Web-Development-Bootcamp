@@ -1,0 +1,6 @@
+paragrpah
+horizantal rule 
+break element 
+
+dont write multiple paragrpah at the same <p> with using <br/> 
+do : write each paragrpah with <p> 

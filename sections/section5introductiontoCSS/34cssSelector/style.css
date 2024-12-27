@@ -1,0 +1,17 @@
+h1 {
+    color : red ; 
+    font-size : 30px; 
+
+}
+
+.blue-text { 
+    color : blue ; 
+}
+
+#main{
+    background-color: brown;
+}
+
+p[draggable="false"]{
+    color: green; 
+}

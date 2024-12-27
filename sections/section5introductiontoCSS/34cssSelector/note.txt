@@ -1,0 +1,8 @@
+class selector 
+element selector 
+id selector 
+attribute selector 
+    that has particular attribute 
+    select all p elements with attribute='x' 
+        you can specify by thier values 
+        
