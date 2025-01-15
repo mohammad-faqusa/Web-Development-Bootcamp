@@ -1,0 +1,7 @@
+position static 
+position relative 
+position absolute 
+    relative to web page
+position z-index
+fixed postioning
+    realtive to window

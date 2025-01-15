@@ -1,0 +1,22 @@
+the position of css role 
+
+the speciifty 
+    <li id="first-id" class="first-class" draggable> 
+    li --> least specific 
+    class name --> more specific 
+    attribute --> attribtute will override a class (same level)
+    first id --> most specific 
+
+importance 
+    link    external (3)
+    style   internal (2)
+    inline (most important) (1)
+
+color :red ; 
+color :green !important; (most important) 
+
+here is the arranbe 
+4) position
+3) specificity 
+2) type 
+1) importance 
