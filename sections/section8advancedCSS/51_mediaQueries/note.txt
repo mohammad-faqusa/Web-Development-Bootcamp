@@ -1,0 +1,29 @@
+media queries in responsive web stie 
+
+
+@media (max-width: 600px) {
+    h1{
+        font-size: 15px; 
+    }
+}
+
+@media (min-width: 600px) {
+    h1{
+        font-size: 20px; 
+    }
+}
+
+
+
+@media (min-width: 600px) and (max-width:900px){
+    h1{
+        font-size: 20px; 
+    }
+}
+
+
+@media screen(orientation: landscape) { // write print instead of screen 
+    h1{
+        font-size: 20px; 
+    }
+}

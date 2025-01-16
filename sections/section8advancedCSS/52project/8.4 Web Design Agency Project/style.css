@@ -1,0 +1,54 @@
+body{
+  display: flex;
+  flex-direction: column ;
+
+}
+
+.card{
+  width: 45%;
+
+}
+
+.card img{
+  width: 45%; 
+  float: left ; 
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+
+.main{
+  flex:1; 
+  
+}
+
+footer{
+  text-align: right;
+}
+
+.creative{
+  color: purple; 
+}
+
+
+@media (max-width: 680px){
+  .card{
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .card img {
+    clear: left ; 
+    display: block;
+    width: 100% ;
+
+  }
+  .logo{
+    height: 30px;
+  }
+}

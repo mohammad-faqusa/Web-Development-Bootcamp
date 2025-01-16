@@ -1,0 +1,15 @@
+how to use float property 
+
+<img> 
+<p> 
+
+img {
+    float: left; 
+    // the text go around the image
+}
+
+footer{
+    clear: left; // not going to wrap right or left 
+}
+
+use float only with image and text 

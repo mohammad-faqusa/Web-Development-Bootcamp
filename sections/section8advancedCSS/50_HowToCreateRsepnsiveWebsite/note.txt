@@ -1,0 +1,32 @@
+1 media queries 
+2 css grid 
+3 css flexbox 
+4 external frameworks e.g. bootstrap 
+
+@media (max-width: 600px) {
+    /* CSS for screent below or equal to wide 
+}
+
+2) CSS grid  
+    apply to the container of divs 
+    dispaly:grid ;
+    grid-template-columns : 1fr 1fr ; 
+    grid-template-rows: 100px 200px 200px ; 
+    gap: 30px 
+
+3) css flex box 
+    apply this fo flex container 
+        display : flex; 
+    .card 
+        height: 100px ; 
+        flex : 1 ;
+    // first and second are cards 
+    .first : {
+        flex : 2 ; 
+    }
+    .second {
+        flex : 0.5 ; 
+    }
+
+4) bootstrap framework 
+    

@@ -1,0 +1,22 @@
+
+h2{
+    display:inline; 
+    display:block ; 
+    display: inline-block ; 
+
+}
+
+display : block 
+    took the entire full width 
+    will display on low it, but not at the same line 
+
+display : inline : 
+    if we have one element, then add another element, then both go to same line
+    the default size is tooken for each element 
+    they fit to width and height of the content
+
+display : inline-block 
+    block : set height and width 
+    inline : have elements go on to the same line 
+    suppose that we have to elements, are displayed inline block, they go with same horizantal line
+    if the element is large in width, so it will occupy new line 
