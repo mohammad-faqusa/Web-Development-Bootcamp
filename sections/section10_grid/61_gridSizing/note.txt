@@ -1,0 +1,22 @@
+grid-container {
+    display : grid ; 
+    grid-tempalte : 100px 200px / 200px , 200px 
+    
+}
+
+grid-tempalte : 100px auto / 200px , auto;  
+
+
+size types 
+
+    fixed : 100px 
+    auto 
+    fractional : fr 
+    min/max 
+        200px minmax(400px, 400px)
+
+repeat(number of times , size) 
+    grid-template-columns : repeat(5 , 100px )
+
+
+grid-auto-rows 

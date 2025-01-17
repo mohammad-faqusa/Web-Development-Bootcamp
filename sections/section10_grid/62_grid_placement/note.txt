@@ -1,0 +1,22 @@
+grid lines 
+    specify hieght and width 
+
+in element of grid 
+    grid-column : span 2 ; (take two columns width )
+
+grid-column-start : 
+grid-column-end : 
+
+using negatvie values : to determine items from last 
+
+direction 
+    start : 4 
+    end : 2 
+
+.grid_element {
+    order : 
+    grid-area : row start / column start / row end / column end 
+    
+
+}
+

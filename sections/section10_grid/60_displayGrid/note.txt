@@ -1,0 +1,18 @@
+flex vs grid 
+
+    flex : 
+        1 dimentional layout  ; 
+    grid : 
+        2d layouts ;
+    
+    use combination of grid and flex 
+        for example flexbox inside grid element 
+
+    when grow, scretch 
+
+    .container {
+        display : grid ; 
+        grid-template-columns : 1fr 2fr ; 
+        grid-template-rows: 1fr 1fr ; 
+        gap: 10px ; 
+    }
