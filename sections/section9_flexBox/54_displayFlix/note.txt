@@ -1,0 +1,23 @@
+previously tebles are used in html 
+
+then using display property 
+
+display: inline-block 
+
+float 
+    dont use flaot for layout 
+
+flex box 
+    div container 
+        div
+        div
+        div
+    .container : 
+        display : flex; 
+        gap : 10px ; 
+    
+    display : flex
+    display : inline-flex
+
+    
+

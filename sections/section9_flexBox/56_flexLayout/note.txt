@@ -1,0 +1,13 @@
+flex items 
+    ordre : 0 , ... 99999
+    0 is the first item 
+
+flex-wrap 
+    :nowrap
+    :wrap
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+https://appbrewery.github.io/flex-layout/
+
+https://appbrewery.github.io/flexboxfroggy/

@@ -1,0 +1,21 @@
+content width < width < flex-basis < min-width/ max-width 
+
+for example set width 200px to each item, if shrined, then It will be less that 200px, 
+    unitl max word content size 
+
+flex-basis : determien the width of each item 
+
+in flex items : 
+    min-width : not just to content 
+    max-width 
+
+when min-width is larger than flex-basis 
+
+flex-grow: 0|1 
+flex-shrink : 0|1 
+
+flex : 1 1 0 // first value : grow, second value : shrink, 3rdh value is basis 
+
+items : flex : 1 , flex : 2, flex : 3 
+    each of them : grow: 1, shrink : 1 ;
+    

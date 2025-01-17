@@ -1,0 +1,13 @@
+flex direction : row (main axis is horixantal)
+flex direciton : columns (main axis is vertical)
+
+main-axis, cross axis 
+
+flex-basis: 100px; expand the height if the main axis is vertical 
+    else it will expand width 
+
+inline-flex 
+    fit to the widest content 
+    
+
+
