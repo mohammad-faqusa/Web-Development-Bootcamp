@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bootstrap Components</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <style>
+    h1{
+      font-size: 3rem;
+    }
+    hero > *  {
+      width : 800px  ; 
+    }
+
+   
+  </style>
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg bg-body-tertiary ">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Navbar</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse  " id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Services</a>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Postcode</a>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Check</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <hero class="mt-5 container text-center d-flex flex-column align-items-center justify-content-center">
+    <h1>Move with us</h1>
+    <p class="fs-4">Welcome to our website, where we are on a mission to provide exceptional moving services to customers in the US. As a startup, we believe that moving doesn't have to be stressful or complicated, and we are passionate about making the process as seamless and enjoyable as possible.</p>
+    <row>
+      <button type="button" class="btn btn-primary btn-lg ">Primary</button>
+      <button type="button" class="btn btn-outline-secondary btn-lg">Secondary</button>
+    </row>
+    <img class="mt-5 mb-0 img-fluid border rounded-3 shadow-lg mb-4"src="./moving-van.jpg" alt="">
+  </hero>
+
+  <hr class="mt-0"/> 
+
+  <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+    <div class="feature col">
+      <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+        <img src="./briefcase.svg" alt="briefcase" height="30">
+      </div>
+      <h3 class="fs-2">Professional</h3>
+      <p>Our team of professional movers are trained to prioritize efficiency, organization, and attention to detail.
+        We
+        understand that your possessions are more than just objects - they are a reflection of your life, memories,
+        and
+        experiences. That's why we take extra care to ensure that everything is packed and transported with the utmost
+        care and
+        attention.</p>
+      <a href="#" class="icon-link">
+        Get a quote
+        <img src="./chevron-right.svg" alt="chevron-right">
+      </a>
+    </div>
+    <div class="feature col">
+      <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+        <img src="./bus-front.svg" alt="bus-front" height="30">
+      </div>
+      <h3 class="fs-2">Countrywide</h3>
+      <p>We offer a range of services to suit your individual needs, whether you're moving locally or across the
+        country. Our
+        team can handle everything from packing and loading to unloading and unpacking, so you can focus on settling
+        into your
+        new home. And with our transparent pricing and no hidden fees, you can trust that you're getting a fair and
+        competitive
+        rate for our services.</p>
+      <a href="#" class="icon-link">
+        Get a quote
+        <img src="./chevron-right.svg" alt="chevron-right">
+      </a>
+    </div>
+
+    <div class="feature col">
+      <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+        <img src="./chat-square-heart.svg" alt="chat-square-heart" height="30">
+      </div>
+      <h3 class="fs-2">Personal Touch</h3>
+      <p>At our core, we believe that moving should be an exciting and positive experience, not a stressful one. By
+        providing
+        exceptional moving services in the US, we hope to revolutionize the way people think about moving and provide
+        a better,
+        more personalized experience for our customers. Contact us today to learn more about how we can help you with
+        your next
+        move.</p>
+      <a href="#" class="icon-link">
+        Get a quote
+        <img src="./chevron-right.svg" alt="chevron-right">
+      </a>
+    </div>
+  </div>
+
+</body>
+
+</html>
