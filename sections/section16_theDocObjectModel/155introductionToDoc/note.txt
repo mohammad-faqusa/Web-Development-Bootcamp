@@ -1,0 +1,17 @@
+properties 
+    innerHTML
+    style
+    firstChild
+
+Methods 
+    click()
+    appendChild()
+    setAttribute() 
+
+document.getElementBtTagName 
+
+document.getElementByClassName 
+
+
+
+
