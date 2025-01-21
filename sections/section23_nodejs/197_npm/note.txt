@@ -1,0 +1,9 @@
+init npm 
+
+installing npm package 
+    navigate to npm website 
+
+we can switch between types
+    commonjs 
+    module 
+

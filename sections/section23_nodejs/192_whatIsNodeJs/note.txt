@@ -1,0 +1,20 @@
+node.js : an asynchoronous event-driven JavaScript runtime, node.js is designed 
+    to build scalable network applications 
+
+javaScript runtime : 
+    node use V8 engine 
+    allow using javascript other than browser applications 
+    runtime : we can run it in our local machine 
+
+asynchoronous event driven 
+    asynchoronous : does not have to do every thing sequenctially 
+    the event is triggered when the code is running 
+
+fullstack 
+scales
+non-blocking
+ecosystem : npm libraries 
+
+
+node is not framework , but is runtime environment 
+
