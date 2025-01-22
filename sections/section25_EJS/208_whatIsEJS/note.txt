@@ -1,0 +1,7 @@
+EJS (embedded javascript) is javascript tamplating language
+
+
+run some javascript module inside html file 
+
+between % 
+
