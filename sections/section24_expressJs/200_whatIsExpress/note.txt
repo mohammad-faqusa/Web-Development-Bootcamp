@@ -1,0 +1,13 @@
+is js framework, allow us to build backend applications 
+
+node.js is comperhinsive , (do many things), it is suitable for back end web developemnt 
+    and other applicaitons like IoT , disktop apps 
+
+but we specialise in (website backend), so we use express js 
+
+express + node is better than node : 
+    readability 
+    less code 
+    middleware 
+
+    

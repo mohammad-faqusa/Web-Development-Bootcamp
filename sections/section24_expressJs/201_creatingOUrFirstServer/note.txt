@@ -1,0 +1,25 @@
+back end (server - side ): 
+    application
+    server 
+    database 
+    
+client : 
+    reach server computer 
+    make request 
+        go through google servers
+        to reach the right server 
+    server response
+        return database
+
+client side : server side 
+
+initially, we use our local computer as a server 
+
+creating express server : 
+    1. create directory
+    2. create index.js file
+    3. initialise npm 
+    4. install the express package
+    5. write server application in index.js
+    6. start server 
+
