@@ -1,0 +1,7 @@
+type of authintications 
+
+0. no authintications
+1. basic authinticaiton 
+    user name , password // base64 enconding 
+
+    

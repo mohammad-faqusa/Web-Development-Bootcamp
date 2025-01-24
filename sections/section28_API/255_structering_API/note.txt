@@ -1,0 +1,28 @@
+how to use public API 
+
+http://bored-api.appbrewery.com
+
+API endpoints : 
+    baseURL/Endpoint 
+
+    GET bored.com/random 
+
+
+query parameters 
+
+    bored-api.appbrewery.com/endpoint?query=value 
+
+    for filtering sorting .. 
+
+    you add the query by adding "?", after the endpoint 
+    bored.com/enpoint?query=value&query2=value 
+
+parth parameters 
+    /endpoint/{path-parameter} 
+        path-parameter could be ID, user name 
+    
+    so query parameters is for searching
+    path parameters is for identifying 
+        identify specific uniqe Key 
+    
+    

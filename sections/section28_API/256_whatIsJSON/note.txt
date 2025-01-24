@@ -1,0 +1,23 @@
+JSON : javascript Object Notation 
+
+to send data in readable and efficient way
+
+
+JSON vs JS object :
+    they are almost identical 
+    key format : 
+        the keys in JSON are termed in string 
+        but in JS object is name of variable 
+
+
+JSON advantages : 
+    pretty lightweight 
+
+online json viewer : https://jsonviewer.stack.hu/
+
+jsonData = JSON.stringify(data) 
+    convert the data object to json string 
+
+data = JSON.parse(JSONdata) 
+    unpack the strigified json data , to object data 
+
