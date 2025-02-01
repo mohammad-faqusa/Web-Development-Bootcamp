@@ -12,10 +12,10 @@ env.config();
 const app = express();
 const port = 3000 ; 
 const db = new pg.Client({
-    host: "localhost",
-    user: "postgres",
+    host: process.env.DB_HOST,
+    user: process.env.DB_USER,
     password: process.env.DB_PASSWORD, 
-    database: "secrets", 
+    database: process.env.DB_DATABASE, 
     port: 5432 
 }); 
 
