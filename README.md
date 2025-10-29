@@ -1,7 +1,8 @@
 # 🌐 The Complete Web Development Bootcamp
 
 > Become a Full-Stack Web Developer with one comprehensive course — covering **HTML, CSS, JavaScript, Node.js, React, PostgreSQL, Web3, and DApps**.
-
+---
+## 🎓 [Course Certificate](https://www.udemy.com/certificate/UC-b52bc4ba-3fca-4859-85ab-c65c0eeaa43c/)
 ---
 
 ## 📚 Overview
